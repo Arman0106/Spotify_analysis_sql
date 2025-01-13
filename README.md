@@ -291,6 +291,9 @@ on spotify_data(Artist)
 
 
 **If you would like to contribute to this project, feel free to fork the repository, submit pull requests, or raise issues.**
-Author - Mohd Arman Mansuri
+
+**Author - Mohd Arman Mansuri**
+
 github - https://github.com/Arman0106
+
 linkedIn - www.linkedin.com/in/arman-mansuri-0a731a173
