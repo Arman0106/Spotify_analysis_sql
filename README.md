@@ -17,7 +17,7 @@ This project involves analyzing a Spotify dataset with various attributes about 
 create database Spotify_data_analysis
 ```
 
-**use Spotify_data_analysis**
+**use Spotify_data**
 
 ```sql
 select * from spotify_data
