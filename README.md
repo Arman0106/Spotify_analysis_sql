@@ -251,7 +251,7 @@ To improve query performance, we carried out the following optimization process:
         - Estimated I/O cost      : 0.764
         - Estimated CPU cost      : 0.0227
     - Below is the **screenshot** of the result before optimization:
-      ![EXPLAIN Before Index](https://https://github.com/Arman0106/Spotify_analysis_sql/new/main/spotify_1.png)
+      ![EXPLAIN Before Index](https://github.com/Arman0106/Spotify_analysis_sql/blob/main/spotify_1.png)
       
 ```sql
 select 
@@ -280,7 +280,7 @@ on spotify_data(Artist)
         - Estimated I/O cost      : 0.003125
         - Estimated CPU cost      : 0.000168
     - Below is the **screenshot** of the result after index creation:
-      ![EXPLAIN After Index](https://https://github.com/Arman0106/Spotify_analysis_sql/new/main/spotify_2.png)
+      ![EXPLAIN After Index](https://github.com/Arman0106/Spotify_analysis_sql/blob/main/spotify_2.png)
 
 **This optimization shows how indexing can drastically reduce query time, improving the overall performance of our database operations in the Spotify project.**
 
